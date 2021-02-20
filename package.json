@@ -1,0 +1,9 @@
+{
+  "name": "newBot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "wbm": "^1.1.13"
+  }
+}
